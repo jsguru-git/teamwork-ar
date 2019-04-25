@@ -1,0 +1,16 @@
+Main colours
+
+•    Blue - #7C91EC
+•    Charcoal Blue - #2E2f39
+•    White - #FFF
+
+UI colours
+•    active btns - #7C91EC (blue)
+•    bottom bar - #F4F4F4 (light grey)
+•    disabled icon colour - #C3C3C3 (grey)
+•    draw colours
+o    #7C91EC (blue)
+o    #E8BD12 (orange)
+o    #21DA0E (green)
+•    light text - #FFFFFF
+•    dark text - #696969

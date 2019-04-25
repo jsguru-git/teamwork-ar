@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "487793639353",
+    "firebase_url": "https://cgs-teamworkar.firebaseio.com",
+    "project_id": "cgs-teamworkar",
+    "storage_bucket": "cgs-teamworkar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487793639353:android:565e4e4f4019969e",
+        "android_client_info": {
+          "package_name": "com.cgs.teamworkar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487793639353-0fcphcivn9v12p7nb6u1ikqihj393o8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAONdPRrIvA9007LdRwbr4WxL6T5geuLfk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

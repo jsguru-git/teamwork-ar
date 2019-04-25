@@ -1,0 +1,21 @@
+sid: 'RMb07a42a246595683919054dd1e2217a4',
+status: 'in-progress',
+dateCreated: '2019-01-31T13:11:53.000Z',
+dateUpdated: '2019-01-31T13:15:34.000Z',
+accountSid: 'AC948d43fcb049985d25d84ffe919645c2',
+enableTurn: true,
+uniqueName: '5c33649697042a002313fb96',
+statusCallback: 'https://teamworkar-api-staging.herokuapp.com/api/rooms/events',
+statusCallbackMethod: 'POST',
+endTime: null,
+duration: null,
+type: 'group',
+maxParticipants: 50,
+recordParticipantsOnConnect: true,
+videoCodecs: [ 'VP8', 'H264' ],
+mediaRegion: 'us1',
+url: 'https://video.twilio.com/v1/Rooms/RMb07a42a246595683919054dd1e2217a4',
+links:
+ { recordings: 'https://video.twilio.com/v1/Rooms/RMb07a42a246595683919054dd1e2217a4/Recordings',
+   participants: 'https://video.twilio.com/v1/Rooms/RMb07a42a246595683919054dd1e2217a4/Participants'
+ }
